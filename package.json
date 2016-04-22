@@ -1,0 +1,16 @@
+{
+  "name": "woodo",
+  "version": "1.0.0",
+  "description": "Pokemon sudowoodo",
+  "main": "./lib/index.js",
+  "keywords": [
+    "Sudowoodo",
+    "pokemon"
+  ],
+  "author": "Ivan Velasquez <ivan.velasquez.rios@gmail.com>",
+  "license": "MIT",
+  "preferGlobal": "true",
+  "bin": {
+    "woodo": "lib/index.js"
+  }
+}
