@@ -1,7 +1,7 @@
 # Woodo
 
-If you are a pokemon, you might like this
-small script written. :
+If you are a pokemon fan, you might like this
+small script written:
 
 ```bash
 $ npm install -g woodo

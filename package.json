@@ -1,6 +1,6 @@
 {
   "name": "woodo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pokemon sudowoodo",
   "main": "./lib/index.js",
   "keywords": [
