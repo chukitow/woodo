@@ -10,6 +10,10 @@
   "author": "Ivan Velasquez <ivan.velasquez.rios@gmail.com>",
   "license": "MIT",
   "preferGlobal": "true",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/chukitow/woodo"
+  },
   "bin": {
     "woodo": "lib/index.js"
   }
