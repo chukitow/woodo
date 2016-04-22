@@ -32,4 +32,6 @@ $ sudo woodo
 
 ```
 
+Thanks to [TheNaox](https://github.com/TheNaoX/woodo/) for the original Go lang script.
+
 ## Enjoy!
